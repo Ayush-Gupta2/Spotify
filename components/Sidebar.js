@@ -43,7 +43,7 @@ const Sidebar = () => {
 
             <div className={styles.hrline}></div>
             <div className={styles.playlists}>
-                <p>Playlists1</p>
+                <p>Playlists 1</p>
                 <p>Ayush</p>
                 <p>Bollywood</p>
                 <p>Punjabi</p>
